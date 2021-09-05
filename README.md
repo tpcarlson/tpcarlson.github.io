@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/tpcarlson/tpcarlson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Divergent Waves. I’m Tom, the creator of Divergent Waves. I started to build Eurorack synthesizer modules at the start of 2020, learning as I went and making a lot of fun mistakes along the way. Now I'd like to share some of these with you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Modules
 
-### Markdown
+(Add pictures of modules as links in here.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Logic](module/logic/)
 
-```markdown
-Syntax highlighted code block
+### Open Source
 
-# Header 1
-## Header 2
-### Header 3
+All the Divergent Waves modules are open source. Kicad for schematic layout and PCB design, and Teensyduino for Teensy-based projects.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tpcarlson/tpcarlson.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Divergent Waves on Github](https://github.com/tpcarlson/synth-diy)
