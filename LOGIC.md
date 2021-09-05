@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Logic"
+title: Logic
 permalink: /module/logic/
 ---
 
