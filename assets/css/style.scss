@@ -8,6 +8,12 @@ $border-color-01: #111 !default;
 $spacing-unit:    30px !default;
 $brand-color:     #828282 !default;
 
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
+
 @mixin relative-font-size($ratio) {
   font-size: #{$ratio}rem;
 }
