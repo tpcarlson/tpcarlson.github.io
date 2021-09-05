@@ -7,6 +7,10 @@
 $border-color-01: #111 !default;
 $spacing-unit:     30px !default;
 
+@mixin relative-font-size($ratio) {
+  font-size: #{$ratio}rem;
+}
+
 /**
  * Site footer
  */
