@@ -1,6 +1,11 @@
 theme: jekyll-theme-slate
 title: Divergent Waves
 
+site:
+  author:
+    name: Tom Carlson
+    email: twigathy+divergentwaves@gmail.com
+
 social:
   date_format: "%b %-d, %Y"
 
