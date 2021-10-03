@@ -1,6 +1,6 @@
 ## Hello!
 
-Welcome to Divergent Waves. I started to build Eurorack synthesizer modules at the start of 2020, learning as I went. Now I'd like to share some of these with you.
+Welcome to Divergent Waves. I started to build Eurorack synthesizer modules at the start of 2020, learning as I went. Now I'd like to share some of them with you.
 
 ## Modules
 
