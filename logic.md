@@ -52,4 +52,4 @@ You can also vary the pulse width of the output by running the oscillators throu
 
 ## Availability
 
-Logic will soon be available as a kit (Details TBC). If you would like one built for you, please [contact me](../contact/).
+Logic will soon be available as a kit (Details TBC). If you would like one built for you, please <a href="../../contact/">contact me</a>.
