@@ -6,6 +6,16 @@ permalink: /module/logic/
 
 ## Logic
 
+![front](images/logic-front-thumb.jpg)
+
+![front](images/logic-side-thumb.jpg)
+
+![front](images/logic-rear-thumb.jpg)
+
+![front](images/logic-pcbs-thumb.jpg)
+
+
+
 A straightforward, no-nonsense quad logic processor. Triggers, gates, audio - whatever you want - can be mangled, merged and digested by logic gates and the result used in creative patches.
 
 When fed audio, the Logic will convert the audio into square waves. This can be pretty handy for making suboscillators (Especially when combined with a clock divider) and adding a bit of beef to an otherwise less interesting waveform.
