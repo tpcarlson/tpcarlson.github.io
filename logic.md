@@ -50,6 +50,11 @@ Wire the oscillators in to the first A and B logic inputs and use the output as 
 
 You can also vary the pulse width of the output by running the oscillators through a VCA or attenutator before putting them in to Logic, or offsetting the inputs by a fixed voltage.
 
+## Resources
+
+- [BOM](https://github.com/tpcarlson/synth-diy/blob/main/logic/BOM.md)
+- [Assembly Guide](https://github.com/tpcarlson/synth-diy/blob/main/logic/ASSEMBLY.md)
+
 ## Availability
 
-Logic will soon be available as a kit (Details TBC). If you would like one built for you, please <a href="../../contact/">contact me</a>.
+Logic will soon be available as a kit (Details TBC). If you would like one built for you, please <a href="../../contact/">contact me</a>.s
