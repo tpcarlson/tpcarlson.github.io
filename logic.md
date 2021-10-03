@@ -6,7 +6,7 @@ permalink: /module/logic/
 
 ## Logic
 
-<a href="../../logic-front.jpg" target="_blank"><img src="../../images/logic-front-thumb.jpg" /></a><a href="../../logic-side.jpg" target="_blank"><img src="../../images/logic-side-thumb.jpg" /></a><a href="../../logic-rear.jpg" target="_blank"><img src="../../images/logic-rear-thumb.jpg" /></a><a href="../../logic-pcbs.jpg" target="_blank"><img src="../../images/logic-pcbs-thumb.jpg" /></a>
+<a href="../../logic-front.jpg" target="_blank"><img src="../../images/logic-front-thumb.jpg" height="128" width="128" /></a><a href="../../logic-side.jpg" target="_blank"><img src="../../images/logic-side-thumb.jpg" height="128" width="128" /></a><a href="../../logic-rear.jpg" target="_blank"><img src="../../images/logic-rear-thumb.jpg" height="128" width="128" /></a><a href="../../logic-pcbs.jpg" target="_blank"><img src="../../images/logic-pcbs-thumb.jpg" height="128" width="128" /></a>
 
 A straightforward, no-nonsense quad logic processor. Triggers, gates, audio - whatever you want - can be mangled, merged and digested by logic gates and the result used in creative patches.
 
