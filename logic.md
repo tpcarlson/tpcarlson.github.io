@@ -10,11 +10,11 @@ permalink: /module/logic/
 
 A straightforward, no-nonsense quad logic processor. Triggers, gates, audio - whatever you want - can be mangled, merged and digested by logic gates and the result used in creative patches.
 
-When fed audio, the Logic will convert the audio into square waves. This can be pretty handy for making suboscillators (Especially when combined with a clock divider) and adding a bit of beef to an otherwise less interesting waveform.
+When fed audio, Logic will convert the audio into square waves. This can be pretty handy for making suboscillators, especially when combined with a clock divider, and adding a bit of beef to an otherwise less interesting waveform.
 
 Applying clocks and gates to the module can be especially helpful in creating generative rhythms and beats with different logic chips resulting in wildly different patterns.
 
-Inputs are copied down the A and B inputs (or in Eurorack terms, [normalled](https://learningmodular.com/glossary/normalled/)) if nothing is plugged in, saving from needing to use multiples to split commonly used signals such as a clock.
+Inputs are copied down the A and B inputs (or in Eurorack terms [normalled](https://learningmodular.com/glossary/normalled/)) if nothing is plugged in, saving from needing to use multiples to split commonly used signals such as a clock.
 
 ## Technical Information
 
@@ -57,4 +57,4 @@ You can also vary the pulse width of the output by running the oscillators throu
 
 ## Availability
 
-Logic will soon be available as a kit (Details TBC). If you would like one built for you, please <a href="../../contact/">contact me</a>.
+Logic is available as a [kit from Thonk](https://www.thonk.co.uk/shop/divergent-waves-logic/). If you would like one built for you, please <a href="../../contact/">contact me</a>.
