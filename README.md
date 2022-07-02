@@ -6,6 +6,8 @@ Welcome to Divergent Waves. I started to build Eurorack synthesizer modules at t
 
 [Logic](module/logic/)
 
+[DrumFiend](module/drumfiend/)
+
 ### Open Source
 
 All Divergent Waves modules are open source. Kicad is used for schematic layout and PCB design, and Arduino/Teensyduino for Teensy-based projects.
