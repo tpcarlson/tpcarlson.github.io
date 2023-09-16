@@ -1,10 +1,12 @@
-theme: jekyll-theme-slate
-title: Divergent Waves
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: DIVERGENT WAVES
 
 site:
   author:
     name: Tom Carlson
-    email: twigathy+divergentwaves@gmail.com
+    email: hello@divergentwaves.co.uk
 
 social:
   date_format: "%b %-d, %Y"
@@ -20,18 +22,18 @@ social:
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
+    # youtube: divergentwaves
+    youtube_channel: UC9fDAYKHT6mrLmp23vEMXdQ
+    youtube_channel_name: divergentwaves
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
 
     # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+    mastodon:
+    - username: twigathy
+      instance: hachyderm.io
     # - username: jekyll2
     #   instance: example.com
 

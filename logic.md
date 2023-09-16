@@ -16,6 +16,8 @@ Applying clocks and gates to the module can be especially helpful in creating ge
 
 Inputs are copied down the A and B inputs (or in Eurorack terms [normalled](https://learningmodular.com/glossary/normalled/)) if nothing is plugged in, saving from needing to use multiples to split commonly used signals such as a clock.
 
+{% include youtube.html id="wv3wsZcGaa0" %}
+
 ## Technical Information
 
 - Quad logic gates, with a fixed function. AND, NAND, OR, XOR, NOR, XNOR functions are available with different choices of chips
@@ -27,7 +29,7 @@ Inputs are copied down the A and B inputs (or in Eurorack terms [normalled](http
 
 ## Patch examples
 
-Logic modules can be used for all kinds of signal modulation and pattern generation, here's a couple of examples. Do you have some others you'd like to share? Why not [get in touch](contact/).
+Logic modules can be used for all kinds of signal modulation and pattern generation, here's a couple of examples.
 
 ### Drums Triggers
 

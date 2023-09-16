@@ -18,6 +18,8 @@ As DrumFiend runs CircuitPython, changing the drum map to output different MIDI 
 
 DrumFiend supports both MIDI-A and MIDI-B TRS-MIDI variants, switchable with jumpers on the back of the module.
 
+{% include youtube.html id="JPxy6Dy0QuU" %}
+
 ## Technical Information
 
 - 19 Trigger Inputs
@@ -26,9 +28,9 @@ DrumFiend supports both MIDI-A and MIDI-B TRS-MIDI variants, switchable with jum
 - 40mA peak on +12v, -12v and 5v rails unused
 - Inputs on over 2.5v, off under 2.4v
 
-## Simple patch examples
+## Patch examples
 
-DrumFiend isn't just for drums... here's a few examples of what you can do with it. Do you have some others you'd like to share? Why not [get in touch](contact/).
+DrumFiend isn't just for drums... here's a few examples of what you can do with it.
 
 ### Drums Triggers
 
