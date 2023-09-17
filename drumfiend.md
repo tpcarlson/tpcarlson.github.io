@@ -19,6 +19,7 @@ As DrumFiend runs CircuitPython, changing the drum map to output different MIDI 
 DrumFiend supports both MIDI-A and MIDI-B TRS-MIDI variants, switchable with jumpers on the back of the module.
 
 {% include youtube.html id="JPxy6Dy0QuU" %}
+{% include youtube.html id="wxmLj0OS0Og" %}
 
 ## Technical Information
 
@@ -62,4 +63,4 @@ For the DrumBrute Impact, experiment with the FM drum. Tune the mod and carrier 
 
 ## Availability
 
-DrumFiend is available as a [kit from Thonk](https://www.thonk.co.uk/shop/TBC/). If you would like one built for you, please <a href="../../contact/">contact me</a>.
+DrumFiend is available as a [kit from Thonk](https://www.thonk.co.uk/shop/divergent-waves-drumfiend/). If you would like one built for you, please <a href="../../">contact me</a>.

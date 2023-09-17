@@ -8,6 +8,10 @@ permalink: /
 
 Welcome to Divergent Waves. I started to build Eurorack synthesizer modules at the start of 2020, learning as I went. Now I'd like to share some of them with you.
 
+- [Dice](module/dice/) is a 6-way probabilistic router for audio or CV
+- [DrumFiend](module/drumfiend/) is a 19-channel trigger to MIDI module
+- [Logic](module/logic/) is a 4-way logic processor based on CD4xxx CMOS ICs
+
 ### Open Source
 
 All Divergent Waves modules are open source. Kicad is used for schematic layout, PCB design, and panel layout. Arduino and CircuitPython are also used in various projects on the Teensy and Raspberry Pi Pico development boards.
