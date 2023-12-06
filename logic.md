@@ -59,4 +59,4 @@ You can also vary the pulse width of the output by running the oscillators throu
 
 ## Availability
 
-Logic is available as a [kit from Thonk](https://www.thonk.co.uk/shop/divergent-waves-logic/). If you would like one built for you, please <a href="../../">contact me</a>.
+Logic is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/logic/), or a [kit from Thonk](https://www.thonk.co.uk/shop/divergent-waves-logic/). If you would like one built for you, please <a href="../../">contact me</a>.
