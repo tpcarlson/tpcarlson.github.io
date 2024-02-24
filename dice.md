@@ -70,4 +70,4 @@ Try using the central fader to influence which drums are played, and play with t
 
 ## Availability
 
-Dice is available as a [kit from Thonk](https://www.thonk.co.uk/shop/divergent-waves-dice/). If you would like one built for you, please <a href="../../">contact me</a>.
+Dice is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/dice/), or as a built module from Takazudo Modular on [Mercari](https://jp.mercari.com/shops/product/D7FxJkfnUAq24f4xVBUE2M). If you would like one built for you, please <a href="../../">contact me</a>.
