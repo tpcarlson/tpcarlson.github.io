@@ -71,7 +71,7 @@ Hold the mode button to dive into mode tweaking and use the encoder to set the n
 
 ## Availability
 
-Sycamore is coming soon! If you would like one built for you, please <a href="../../">contact me</a>.
+Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/). If you would like one built for you, please [contact me](../../).
 
 ## Special thanks
 
