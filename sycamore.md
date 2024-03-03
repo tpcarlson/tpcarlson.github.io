@@ -71,7 +71,7 @@ Hold the mode button to dive into mode tweaking and use the encoder to set the n
 
 ## Availability
 
-Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/). If you would like one built for you, please [contact me](../../).
+Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/), or as a built module on [Reverb](https://reverb.com/uk/item/80138906-divergent-waves-sycamore).
 
 ## Special thanks
 

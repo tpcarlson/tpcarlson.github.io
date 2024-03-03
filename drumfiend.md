@@ -63,4 +63,4 @@ For the DrumBrute Impact, experiment with the FM drum. Tune the mod and carrier 
 
 ## Availability
 
-DrumFiend is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/drumfiend/). If you would like one built for you, please <a href="../../">contact me</a>.
+DrumFiend is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/drumfiend/), or as a built module on [Reverb](https://reverb.com/uk/item/79834463-divergent-waves-drumfiend)
