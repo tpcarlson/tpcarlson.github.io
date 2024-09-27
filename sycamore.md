@@ -28,6 +28,8 @@ Sycamore makes use of CircuitPython for its program code, allowing for easy modi
 - Aux CV input 0 to +5v
 - Negative input voltage protection on all signal inputs
 
+If you want to know more about how Sycamore works electrically, check out the [schematic walkthrough](../../blog/making-sycamore-schematic-walkthrough/).
+
 ## Patch examples
 
 Sycamore is most at home as a dual quantized output. Here are a couple of simple examples.
