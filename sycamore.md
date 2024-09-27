@@ -30,6 +30,10 @@ Sycamore makes use of CircuitPython for its program code, allowing for easy modi
 
 If you want to know more about how Sycamore works electrically, check out the [schematic walkthrough](../../blog/making-sycamore-schematic-walkthrough/).
 
+## Expanders
+
+[Oak](../oak/) adds trigger outputs per step, note, and start of loop, as well as breaking out the scale shuffle control. Oak also includes buttons for parameter locking.
+
 ## Patch examples
 
 Sycamore is most at home as a dual quantized output. Here are a couple of simple examples.
