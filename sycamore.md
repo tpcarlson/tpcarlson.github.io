@@ -32,7 +32,7 @@ If you want to know more about how Sycamore works electrically, check out the [s
 
 ## Expanders
 
-[Oak](../oak/) adds trigger outputs per step, note, and start of loop, as well as breaking out the scale shuffle control. Oak also includes buttons for parameter locking.
+|<a href="../../images/oak/oak-front2.jpg" target="_blank"><img src="../../images/oak/oak-front2.jpg" width="512" style="margin:10px 10px"/>| [Oak](../oak/) adds trigger outputs per step, note, and start of loop, as well as breaking out the scale shuffle control. Oak also includes buttons for parameter locking.|
 
 ## Patch examples
 

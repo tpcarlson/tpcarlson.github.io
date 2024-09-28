@@ -6,7 +6,7 @@ permalink: /module/oak/
 
 ## Oak
 
-<a href="../../images/oak/oak-front.jpg" target="_blank"><img src="../../images/oak/oak-front-thumb.jpg" height="128" width="128" /></a><a href="../../images/oak/oak-side.jpg" target="_blank"><img src="../../images/oak/oak-side-thumb.jpg" height="128" width="128" /></a><a href="../../images/oak/oak-rear.jpg" target="_blank"><img src="../../images/oak/oak-rear-thumb.jpg" height="128" width="128" /></a><a href="../../images/oak/oak-pcbs.jpg" target="_blank"><img src="../../images/oak/oak-pcbs-thumb.jpg" height="128" width="128" /></a>
+<a href="../../images/oak/oak-front2.jpg" target="_blank"><img title="" src="../../images/oak/oak-front2-thumb.jpg" alt="" height="128" width="128"></a><a href="../../images/oak/oak-side.jpg" target="_blank"><img src="../../images/oak/oak-side-thumb.jpg" height="128" width="128" /></a><a href="../../images/oak/oak-rear.jpg" target="_blank"><img src="../../images/oak/oak-rear-thumb.jpg" height="128" width="128" /></a><a href="../../images/oak/oak-pcbs.jpg" target="_blank"><img src="../../images/oak/oak-pcbs-thumb.jpg" height="128" width="128" /></a>
 
 Oak is an expander to [Sycamore](../sycamore) which adds some useful features to the original module. Trigger outputs on every step, every note change, and at the start of each loop allow for creative patches that stay in time with the melody. Scale shuffle, previously only accessible via a long press on Sycamore, expands Sycamore with interesting patch-programmable quantization options.
 
