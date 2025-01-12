@@ -14,7 +14,7 @@ The loop can be reset back to the first step after a trigger input or button pre
 
 Sycamore's four main parameters that control the loop - Shift, Quantize, Length, and Range - may also be locked at the press of a button.
 
-(Add youtube demo video)
+{% include youtube.html id="Zvx0Bf0yH-E" %}
 
 <!-- {% include youtube.html id="Z_jfuflqjoc" %} -->
 
@@ -68,7 +68,7 @@ With the switched multiple, toggle between Oak's Note and Step outputs to drive 
 
 ## Availability
 
-Oak will be available soon on TIndie and Reverb.
+Oak is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/oak/), or as a built module on [Reverb](https://reverb.com/uk/item/85429774-divergent-waves-oak).
 
 <!-- Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/), or as a built module on [Reverb](https://reverb.com/uk/item/80138906-divergent-waves-sycamore). -->
 
