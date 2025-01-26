@@ -6,17 +6,15 @@ permalink: /module/rowan/
 
 ## Rowan
 
-(Images to follow)
-
-<a href="../../images/oak/oak-front2.jpg" target="_blank"><img title="" src="../../images/oak/oak-front2-thumb.jpg" alt="" height="128" width="128"></a><a href="../../images/oak/oak-side.jpg" target="_blank"><img src="../../images/oak/oak-side-thumb.jpg" height="128" width="128" /></a><a href="../../images/oak/oak-rear.jpg" target="_blank"><img src="../../images/oak/oak-rear-thumb.jpg" height="128" width="128" /></a><a href="../../images/oak/oak-pcbs.jpg" target="_blank"><img src="../../images/oak/oak-pcbs-thumb.jpg" height="128" width="128" /></a>
+<a href="../../images/rowan/rowan-front.jpg" target="_blank"><img title="" src="../../images/rowan/rowan-front-thumb.jpg" alt="" height="128" width="128"></a><a href="../../images/rowan/rowan-side.jpg" target="_blank"><img src="../../images/rowan/rowan-side-thumb.jpg" height="128" width="128" /></a><a href="../../images/rowan/rowan-rear.jpg" target="_blank"><img src="../../images/rowan/rowan-rear-thumb.jpg" height="128" width="128" /></a><a href="../../images/rowan/rowan-pcbs.jpg" target="_blank"><img src="../../images/rowan/rowan-pcbs-thumb.jpg" height="128" width="128" /></a>
 
 Rowan is the second expander to [Sycamore](../sycamore) adding some additional outputs and a scale display.
 
-As well as Sycamore's quantized to a scale outputs, Rowan adds unquantized and chromatic outputs which allow for passing the random sequence to other quantizers, or to use as CV sources. Similar to [Oak](../oak), Rowan also includes a pair of trigger outputs which fire as the Chromatic note changes for the left and right hand sides.
+To complement Sycamore's quantized to a scale outputs, Rowan adds unquantized and chromatic outputs which allow for passing the random sequence to other quantizers, or for use as CV sources. Similar to [Oak](../oak), Rowan also includes a pair of trigger outputs which fire as the Chromatic note changes for the left and right hand sides.
 
-To allow for the easier visualisation of Sycamore's scale state, Rowan has a colourful LED display which shows the currently active notes and give feedback as to what exactly changing the Scale and Quantize controls are doing to the allowed notes.
+To allow for the easier visualisation of Sycamore's scales, Rowan has a colourful LED display which shows the currently active notes and give feedback as to what exactly changing the Scale and Quantize controls are doing to the allowed notes.
 
-(Add youtube demo video)
+(Youtube demo video to follow)
 
 <!-- {% include youtube.html id="Z_jfuflqjoc" %} -->
 
@@ -25,7 +23,7 @@ To allow for the easier visualisation of Sycamore's scale state, Rowan has a col
 - 12hp, 1U
 - Trigger outputs active for 50ms at 5v
 - Quantized and Unquantized outputs 0-5v.
-- xxmA peak on +12v, -12v and 5v rails unused. Reverse-polarity protection on the power input (Add power use stats)
+- 40mA peak on +12v, -12v and 5v rails unused. Reverse-polarity protection on the power input. More LEDs lit may draw a little more power
 - Chainable i2c headers reserved for future use, or for you own hacking
 
 ## Patch examples
@@ -56,7 +54,7 @@ This technique works best if the second quantizer is set to a scale similar to S
 
 ## Availability
 
-Rowan will be available soon on TIndie and Reverb.
+Rowan will be available soon on Tindie and Reverb.
 
 <!-- Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/), or as a built module on [Reverb](https://reverb.com/uk/item/80138906-divergent-waves-sycamore). -->
 
