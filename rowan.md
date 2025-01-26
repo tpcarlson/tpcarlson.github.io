@@ -50,7 +50,7 @@ This technique works best if the second quantizer is set to a scale similar to S
 - [BOM](https://github.com/tpcarlson/synth-diy/blob/main/rowan/BOM.md)
 - [Assembly Guide](https://github.com/tpcarlson/synth-diy/blob/main/rowan/ASSEMBLY.md)
 - [Firmware Guide](https://github.com/tpcarlson/synth-diy/blob/main/rowan/FIRMWARE.md)
-- [Manual](https://github.com/tpcarlson/synth-diy/blob/main/rowan/MANUAL.md) (Manual to follow)
+- [Manual](https://github.com/tpcarlson/synth-diy/blob/main/rowan/MANUAL.md)
 
 ## Availability
 
