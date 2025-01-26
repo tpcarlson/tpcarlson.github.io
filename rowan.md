@@ -54,7 +54,7 @@ This technique works best if the second quantizer is set to a scale similar to S
 
 ## Availability
 
-Rowan will be available soon on Tindie and Reverb.
+Rowan is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/rowan/), or as a built module on [Reverb](https://reverb.com/uk/item/86800780-divergent-waves-rowan).
 
 <!-- Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/), or as a built module on [Reverb](https://reverb.com/uk/item/80138906-divergent-waves-sycamore). -->
 
