@@ -14,9 +14,7 @@ To complement Sycamore's quantized to a scale outputs, Rowan adds unquantized an
 
 To allow for the easier visualisation of Sycamore's scales, Rowan has a colourful LED display which shows the currently active notes and give feedback as to what exactly changing the Scale and Quantize controls are doing to the allowed notes.
 
-(Youtube demo video to follow)
-
-<!-- {% include youtube.html id="Z_jfuflqjoc" %} -->
+{% include youtube.html id="BKmuK5jGsxY" %}
 
 ## Technical Information
 
@@ -55,8 +53,6 @@ This technique works best if the second quantizer is set to a scale similar to S
 ## Availability
 
 Rowan is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/rowan/), or as a built module on [Reverb](https://reverb.com/uk/item/86800780-divergent-waves-rowan).
-
-<!-- Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/), or as a built module on [Reverb](https://reverb.com/uk/item/80138906-divergent-waves-sycamore). -->
 
 ## Special thanks
 
