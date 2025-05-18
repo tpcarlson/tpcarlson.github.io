@@ -12,6 +12,7 @@ Welcome to Divergent Waves. I started to build Eurorack synthesizer modules at t
 - [DrumFiend](module/drumfiend/) is a 19-channel trigger to MIDI module
 - [Logic](module/logic/) is a 4-way logic processor based on CD4xxx CMOS ICs
 - [Oak](module/oak/) is an expander to Sycamore, adding new features to aid in creative patches
+- [Oneshot](module/oneshot) is a Oneshot envelope generator with a number of interesting waveforms
 - [Rowan](module/rowan/) is another expander to Sycamore, adding chromatic and unquantized outputs
 - [Sycamore](module/sycamore) is a 2-channel quantized random looping sequencer
 
