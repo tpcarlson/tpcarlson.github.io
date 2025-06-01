@@ -66,7 +66,7 @@ Try patching the feedback through a VCA and modulating the amount of feedback wi
 
 Oneshot will be available soon from Tindie and Reverb.
 
-<!-- Sycamore is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/sycamore/), or as a built module on [Reverb](https://reverb.com/uk/item/80138906-divergent-waves-sycamore). -->
+Oneshot is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/oneshot/), or as a built module on [Reverb](https://reverb.com/uk/item/90437258-divergent-waves-oneshot).
 
 ## Special thanks
 
