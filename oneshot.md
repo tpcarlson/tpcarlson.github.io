@@ -16,9 +16,7 @@ Oneshot also includes a small CV mixer section allowing for Oneshot's output to 
 
 Oneshot lends itself well to self-patching and experimentation as the CV and knob controls will change the wave on the fly, as parameters change.
 
-<!-- {% include youtube.html id="Zvx0Bf0yH-E" %} -->
-
-<!-- {% include youtube.html id="Z_jfuflqjoc" %} -->
+{% include youtube.html id="v3djYLEpFeE" %}
 
 ## Technical Information
 
@@ -64,10 +62,8 @@ Try patching the feedback through a VCA and modulating the amount of feedback wi
 
 ## Availability
 
-Oneshot will be available soon from Tindie and Reverb.
-
 Oneshot is available as a [kit from Tindie](https://www.tindie.com/products/divergentwaves/oneshot/), or as a built module on [Reverb](https://reverb.com/uk/item/90437258-divergent-waves-oneshot).
 
 ## Special thanks
 
-With thanks to ElectricDruid for their wonderfully versatile little PIC chips, and to the lovely people at SWS.
+With thanks to ElectricDruid for their wonderfully versatile little PIC chips, to arcadepartsuk for supplying buttons, and to the lovely people at SWS.
