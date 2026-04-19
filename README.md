@@ -6,8 +6,9 @@ permalink: /
 
 ## Welcome!
 
-Welcome to Divergent Waves. I started to build Eurorack synthesizer modules at the start of 2020, learning as I went. Now I'd like to share some of them with you.
+Welcome to Divergent Waves. I started to build Eurorack synthesizer modules and devices at the start of 2020, learning as I went. Now I'd like to share some of them with you.
 
+- [Cyclic](module/cyclic/) is an 8-lane, 16 step trigger sequencer with individual clock inputs and trigger outputs
 - [Dice](module/dice/) is a 6-way probabilistic router for audio or CV
 - [DrumFiend](module/drumfiend/) is a 19-channel trigger to MIDI module
 - [Logic](module/logic/) is a 4-way logic processor based on CD4xxx CMOS ICs
